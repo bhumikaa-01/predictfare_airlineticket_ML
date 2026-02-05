@@ -1,4 +1,5 @@
-✈️ Flight Price Prediction using Machine Learning
+#✈️ Flight Price Prediction using Machine Learning
+
 Objective:
 To build a machine learning model that predicts flight prices based on various features like journey date, departure time, arrival time, duration, airline, stops, and route.
 
